@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning XCode and Springboot to convert my springMVC project as well.
 - 💞️ I’m looking to collaborate on someone who has a business mindset that we can build a new product together.
 - 📫 So, if you want to reach me, please contact me on sandyharyono@gmail.com
-- Reach my paypal out if you want to have a donation (https://paypal.me/sandyharyono) :D
+- Reach my paypal if you want to have a donation (https://paypal.me/sandyharyono) :D
 
 <!---
 sansanwawa/sansanwawa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
