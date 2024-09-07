@@ -2,7 +2,7 @@
 - 👀 I’m interested in all programming languages.
 - ❤️ I love using SpringMVC and SpringBoot as a framework in JAVA,
 - 📱 I do code an Android just because its JAVA, JAVA and JAVA
-- 🌐 My old-fashioned programming language when i was in college was PHP. CodeIgniter/Laravel is my prefered framework
+- 🌐 My old-fashioned-programming language when i was in college was PHP. CodeIgniter/Laravel is my prefered framework
 - 🥁 I sometimes do code in C/C++ when build an app to communicate with a hardware.
 - 🌱 I love to use ISO8583 protocol to communicate with financial institution to perform transaction.
 - 👩‍❤️‍👨 I'm a father with 2 kids that i'm always enjoying they're growing up, time by time 🍎🍏
